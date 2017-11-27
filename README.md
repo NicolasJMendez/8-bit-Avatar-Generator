@@ -1,0 +1,2 @@
+# 8-bit-Avatar-Generator
+This is a small script I have written to basically copy what 8biticon.com is doing, only you are able to generate an image with php and either store it on the server or push it out to the website directly. It basically generates a 400 x 400 pixel avatar based on what you selected, right now it's set to generate a male avatar. (note, I have it exporting to the browser instead of saving the image)
